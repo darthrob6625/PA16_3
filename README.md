@@ -19,9 +19,9 @@ The dataset comprises 21 features and more than 40,000 records, including 10 num
 
 ### Evaluation & Findings
 
-
-| Classification Model | Model Accuracy Basic | Model Accuracy After Optimization 
+| Classification Model | Model Accuracy | Model Accuracy After Optimization |
 | --- | --- | --- |
-| logistic regression | 0 | 0
-decision trees, and support vector machines.
-
+| logistic regression | 0 | 0 |
+| decision trees | 0 | 0 |
+| Support Vector Machines | 0 | 0 |
+| K-Nearest Neighbors | 0 | 0 |
