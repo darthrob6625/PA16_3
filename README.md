@@ -15,7 +15,7 @@ The objective of this assignment is to construct and evaluate multiple machine l
 - Results & Analysis
 
 ### Data Analysis
-The dataset comprises 21 features and more than 40,000 records, including 10 numerical features and 10 categorical features. After one-hot encoding of the categorical variables, the total number of features, prior to evaluation and further processing, was ###. I also performed scaling for the numerical data after I split the data in test/train. 
+The dataset comprises 21 features and more than 40,000 records, including 10 numerical features and 10 categorical features. After one-hot encoding of the categorical variables, the total number of features, prior to evaluation and further processing, was ###. I also performed scaling for the numerical data **after** I split the data in test/train. 
 
 ### Evaluation & Findings
 The following table summarizes the classification models, presenting both their initial baseline configurations and their optimized performance metrics.
