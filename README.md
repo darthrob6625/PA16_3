@@ -15,5 +15,5 @@ The objective of this assignment is to construct and evaluate multiple machine l
 - Results & Analysis
 
 ### Data Analysis
-The dataset consists of 21 features and over 40K records.
+The dataset comprises 21 features and more than 40,000 records, including 10 numerical features and 10 categorical features.
 
