@@ -21,7 +21,7 @@ The dataset comprises 21 features and more than 40,000 records, including 10 num
 
 | Classification Model | Model Accuracy | After Optimization |
 | --- | --- | --- |
-| logistic regression | 0 | 0 |
-| decision trees | 0 | 0 |
+| Logistic Regression | 0 | 0 |
+| Decision Trees | 0 | 0 |
 | Support Vector Machines | 0 | 0 |
 | K-Nearest Neighbors | 0 | 0 |
