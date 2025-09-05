@@ -19,7 +19,7 @@ The dataset comprises 21 features and more than 40,000 records, including 10 num
 
 ### Evaluation & Findings
 
-| Classification Model | Model Accuracy | Model Accuracy After Optimization |
+| Classification Model | Model Accuracy | After Optimization |
 | --- | --- | --- |
 | logistic regression | 0 | 0 |
 | decision trees | 0 | 0 |
