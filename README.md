@@ -21,11 +21,15 @@ The banking organization has requested an evaluation of the effectiveness of its
 The dataset comprises 21 features and more than 40,000 records, including 10 numerical features and 10 categorical features. After one-hot encoding of the categorical variables, the total number of features, prior to evaluation and further processing, was ###. I also performed scaling for the numerical data **after** I split the data in test/train. 
 
 ### Evaluation & Findings
+
 The following table summarizes the classification models, presenting both their initial baseline configurations and their optimized performance metrics.
 
-| Classification Model | Simple Model Accuracy | Improvement Model Accuracy |
+| Classification Model | Simple Model Accuracy (Test) | Improvement Model Accuracy |
 | --- | --- | --- |
-| Logistic Regression | 0 | 0 |
-| Decision Trees | 0 | 0 |
-| Support Vector Machines | 0 | 0 |
-| K-Nearest Neighbors | 0 | 0 | 
+| Logistic Regression | 90.6% | 90.7% |
+| K-Nearest Neighbors | 89.9%  | 89.0% | 
+| Decision Trees | 88.1% | 88.46% |
+| Support Vector Machines | 90/0% | - |
+
+
+
