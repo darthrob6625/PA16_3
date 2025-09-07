@@ -57,6 +57,8 @@ The following table summarizes the classification models, presenting both their 
 
 ✅ I chose not to pursue further tuning of the SVM model since the previous three models did not yield any improvement in performance. Based on these outcomes, I concluded that the dataset is highly imbalanced.
 
+✅ why are there 43 campaigns found, but the instructions only state 17? 
+
 ### Future Work
 
 I plan to dedicate additional time to further tuning this model, as I intend to apply the same approach in my Capstone project. I also anticipate that implementing techniques to better address class imbalance will contribute to improved overall results.
