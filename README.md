@@ -20,6 +20,8 @@ The banking organization has requested an evaluation of the effectiveness of its
 ### Data Analysis
 The dataset comprises 21 features and more than 40,000 records, including 10 numerical features and 10 categorical features. After one-hot encoding of the categorical variables, the total number of features, prior to evaluation and further processing, was ###. I also performed scaling for the numerical data **after** I split the data in test/train. 
 
+After applying one-hot encoding, the dataset contained more than 50 features for model training and testing. Due to the large proportion of records with "unknown" values, these observations were removed, resulting in a reduction of approximately 10,000 records.
+
 ### Evaluation & Findings
 
 The following table summarizes the classification models, presenting both their initial baseline configurations and their optimized performance metrics.
