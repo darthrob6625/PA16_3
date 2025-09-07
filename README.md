@@ -45,6 +45,8 @@ The following table summarizes the strongest correlations.
 
 This can also be shown in the heatmap below: 
 
+![image](image/heatmap.png)
+
 
 
 
