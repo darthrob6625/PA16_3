@@ -4,7 +4,10 @@ Link: [PA3.ipynb](https://cnn.com/)
 ## Module 17: Practical Application 3
 
 ### Problem Statement
-The objective of this assignment is to construct and evaluate multiple machine learning classification models for the purpose of assessing marketing campaigns within a banking organization. Specifically, the models to be developed and optimized include k-nearest neighbors, logistic regression, decision trees, and support vector machines. The banking organization has requested an evaluation of the effectiveness of its marketing campaigns in order to determine whether customers are likely to respond positively.
+The objective of this assignment is to construct and evaluate multiple machine learning classification models for the purpose of assessing marketing campaigns within a banking organization. Specifically, the models to be developed and optimized include k-nearest neighbors, logistic regression, decision trees, and support vector machines. 
+
+### Business Objective
+The banking organization has requested an evaluation of the effectiveness of its marketing campaigns in order to determine whether customers are likely to respond positively.
 
 ###  Project Workflow
 - Data check
