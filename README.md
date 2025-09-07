@@ -49,6 +49,15 @@ The following table summarizes the classification models, presenting both their 
 | Decision Trees | 88.1% | 88.46% |
 | Support Vector Machines | 90/0% | - |
 
+✅ For the Logistic Regression model, the optimal regularization parameter (C) was identified as 0.1. However, model performance did not improve following hyperparameter tuning.
+
+✅ For the K-Nearest Neighbors model, the optimal number of neighbors was determined to be 11. Despite this adjustment, no substantive improvement in performance was observed after tuning.
+
+✅ For the Decision Tree model, the optimal maximum depth was identified as 10. Overall performance remained unchanged despite the tuning process.
+
+✅ I chose not to pursue further tuning of the SVM model since the previous three models did not yield any improvement in performance. Based on these outcomes, I concluded that the dataset is highly imbalanced.
+
+
 
 
 
