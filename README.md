@@ -43,3 +43,10 @@ The following table summarizes the strongest correlations.
 | euribor3m | -0.318 |
 | poutcome_success | 0.305 |
 
+This can also be shown in the heatmap below: 
+
+
+
+
+
+
