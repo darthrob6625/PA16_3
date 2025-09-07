@@ -47,7 +47,7 @@ The following table summarizes the classification models, presenting both their 
 | Logistic Regression | 90.6% | 90.7% |
 | K-Nearest Neighbors | 89.9%  | 89.0% | 
 | Decision Trees | 88.1% | 88.46% |
-| Support Vector Machines | 90/0% | - |
+| Support Vector Machines | 90.0% | - |
 
 ✅ For the Logistic Regression model, the optimal regularization parameter (C) was identified as 0.1. However, model performance did not improve following hyperparameter tuning.
 
@@ -57,9 +57,9 @@ The following table summarizes the classification models, presenting both their 
 
 ✅ I chose not to pursue further tuning of the SVM model since the previous three models did not yield any improvement in performance. Based on these outcomes, I concluded that the dataset is highly imbalanced.
 
+### Future Work
 
-
-
+I plan to dedicate additional time to further tuning this model, as I intend to apply the same approach in my Capstone project. I also anticipate that implementing techniques to better address class imbalance will contribute to improved overall results.
 
 
 
