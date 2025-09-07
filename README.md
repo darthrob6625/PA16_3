@@ -22,6 +22,9 @@ The dataset comprises 21 features and more than 40,000 records, including 10 num
 
 After applying one-hot encoding, the dataset contained more than 50 features for model training and testing. Due to the large proportion of records with "unknown" values, these observations were removed, resulting in a reduction of approximately 10,000 records.
 
+![image](image/scat.png)
+
+
 The following table summarizes the strongest correlations.
 
 | Strong correlations with target y: | Value |
