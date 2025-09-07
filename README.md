@@ -31,5 +31,13 @@ The following table summarizes the classification models, presenting both their 
 | Decision Trees | 88.1% | 88.46% |
 | Support Vector Machines | 90/0% | - |
 
+The following table summarizes the strongest correlations.
 
+| Strong correlations with target y: | Value |
+| --- | --- |
+| duration | 0.403 |
+| pdays | -0.312 |
+| previous | 0.211 |
+| euribor3m | -0.318 |
+| poutcome_success | 0.305 |
 
