@@ -1,5 +1,5 @@
 # Robert Meza
-Link: [PA3.ipynb](https://cnn.com/)
+Link: [PA3.ipynb](PA3.ipynb)
 
 ## Module 17: Practical Application 3
 
