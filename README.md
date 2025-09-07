@@ -22,17 +22,6 @@ The dataset comprises 21 features and more than 40,000 records, including 10 num
 
 After applying one-hot encoding, the dataset contained more than 50 features for model training and testing. Due to the large proportion of records with "unknown" values, these observations were removed, resulting in a reduction of approximately 10,000 records.
 
-### Evaluation & Findings
-
-The following table summarizes the classification models, presenting both their initial baseline configurations and their optimized performance metrics.
-
-| Classification Model | Simple Model Accuracy (Test) | Improvement Model Accuracy |
-| --- | --- | --- |
-| Logistic Regression | 90.6% | 90.7% |
-| K-Nearest Neighbors | 89.9%  | 89.0% | 
-| Decision Trees | 88.1% | 88.46% |
-| Support Vector Machines | 90/0% | - |
-
 The following table summarizes the strongest correlations.
 
 | Strong correlations with target y: | Value |
@@ -46,6 +35,20 @@ The following table summarizes the strongest correlations.
 This can also be shown in the heatmap below: 
 
 ![image](image/heatmap.png)
+
+Note: the heatmap was done before encoding the categorical values
+
+### Evaluation & Findings
+
+The following table summarizes the classification models, presenting both their initial baseline configurations and their optimized performance metrics.
+
+| Classification Model | Simple Model Accuracy (Test) | Improvement Model Accuracy |
+| --- | --- | --- |
+| Logistic Regression | 90.6% | 90.7% |
+| K-Nearest Neighbors | 89.9%  | 89.0% | 
+| Decision Trees | 88.1% | 88.46% |
+| Support Vector Machines | 90/0% | - |
+
 
 
 
