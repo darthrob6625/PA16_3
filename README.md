@@ -57,7 +57,9 @@ The following table summarizes the classification models, presenting both their 
 
 ✅ I chose not to pursue further tuning of the SVM model since the previous three models did not yield any improvement in performance. Based on these outcomes, I concluded that the dataset is highly imbalanced.
 
-✅ why are there 43 campaigns found, but the instructions only state 17? 
+✅ Gender is not part of this dataset, why do they reference it??? 
+
+✅ Why are there 43 campaigns found, but the instructions only state 17? 
 
 ### Future Work
 
